@@ -1,4 +1,4 @@
-Algoritm Depth-First Search pentru rezolvarea unui labirint.
+Algoritm Depth-First Search pentru rezolvarea unui labirint.</br>
 ex:Dimensiune labirint (linii, coloane): 10 10
 Citire labirint:
 1. Consola

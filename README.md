@@ -1,2 +1,2 @@
-Algoritm Depth-First Search pentru rezolvarea unui labirint.</br>
-Labirint: 0-perete, 1-cale liberă
+Depth-First Search Algorithm for solving a maze.</br>
+Maze: 0-wall, 1-path
